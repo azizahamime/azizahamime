@@ -1,4 +1,4 @@
-<h3 align="center">Une nouvelle compétence vient de s'ajouter à mon répertoire:la certification "developpeur d'application front end React</h3>
+<h3 align="center">Une nouvelle compétence vient de s'ajouter à mon répertoire : la certification "developpeur d'application front end React</h3>
 
 - 🔭Je travaille sur [Projet Modal avec react](https://github.com/azizahamime/react-modal-aziza)
 
