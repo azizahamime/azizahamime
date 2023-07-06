@@ -1,6 +1,8 @@
 # Bienvenue sur mon Profil  👋
 📫 Contactez-moi sur **mess.aziza@gmail.com** 
 
+![image Profil](./Bienvenue.png)
+
 ## Me retrouver
 
 [![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/azizahamime)
