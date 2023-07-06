@@ -1,6 +1,3 @@
-# Bienvenue sur mon Profil  👋
-📫 Contactez-moi sur **mess.aziza@gmail.com** 
-
 ![image Profil](./Bienvenue.png)
 
 ## Me retrouver
